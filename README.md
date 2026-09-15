@@ -17,7 +17,7 @@
   <tr>
     <td width="42%" valign="top">
       <sub>01 — ABOUT ME</sub>
-      <h2>Signal<br /> 噪声中找到真正的信号。</h2>
+      <h2>Signal-M<br /> 噪声中找到真正的信号</h2>
       <p>
         Interested in AI‑Agent system design & LLM product management.
         Continuously explore Agent capability iteration, reliability and real‑world business landing.
