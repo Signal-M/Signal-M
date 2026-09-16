@@ -53,7 +53,7 @@
       <br /><br />
       <sub>02 / ORGANIZE THE NOISE</sub><br />
       <strong>产品经理github项目分析</strong><br />
-      拆解模糊需求，整理约束，让想法逐渐拥有可以交付的形状。<br />
+      开源项目系统化拆解分析<br />
       <sub>产品经理 · 工作流 ·  agent产品</sub>
     </td>
     <td width="33.33%" valign="top">
