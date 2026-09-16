@@ -43,7 +43,7 @@
     <td width="33.33%" valign="top">
       <a href="https://github.com/Signal-M/prompt-to-icon-pack" title="prompt-to-icon-pack"><img src="./assets/icontopack.png" width="100%" alt="Signal finds a useful pattern inside Noise" /></a>
       <br /><br />
-      <sub>01 / FIND THE SIGNAL</sub><br />
+      <sub>01 /PROMPT TO ICON PACK</sub><br />
       <strong>一键生成icon包</strong><br />
       自动生成图标-切图-命名<br />
       <sub>多模态 · 生成 · 工作流</sub>
@@ -51,7 +51,7 @@
     <td width="33.33%" valign="top">
       <a href="https://github.com/Signal-M/agent-repo-intelligence" title="agent-repo-intelligence"><img src="./assets/agent-repo-intelligence.png" width="100%" alt="Signal and Noise organize building blocks" /></a>
       <br /><br />
-      <sub>02 / ORGANIZE THE NOISE</sub><br />
+      <sub>02 /GTIHUB PROJECT ANALYSIS</sub><br />
       <strong>产品经理github项目分析</strong><br />
       开源项目系统化拆解分析<br />
       <sub>产品经理 · 工作流 ·  agent产品</sub>
@@ -59,7 +59,7 @@
     <td width="33.33%" valign="top">
       <a href="https://github.com/Signal-M/tennis-bauhouse" title="tennis-bauhouse"><img src="./assets/tennis.png" width="100%" alt="Signal and Noise build something clear together" /></a>
       <br /><br />
-      <sub>03 / BUILD WITH CLARITY</sub><br />
+      <sub>03 / TENNIS BAUHOUSE</sub><br />
       <strong>网搭星球小程序</strong><br />
       网球约球、组队、找场地微信小程序。<br />
       <sub>vibecoding实战 · 全栈开发 · 视觉优化</sub>
